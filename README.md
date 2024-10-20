@@ -11,7 +11,7 @@ Client
 
 ## ReactJS screen
 
-![Chat screen](img/chat_screen.jpg "Chat screen")
+![Chat screen](img/chat_screen.png "Chat screen")
 
 To start:
     
