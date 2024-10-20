@@ -7,6 +7,7 @@ Spring boot websocket backend and reactjs client
 - install Apache-maven to run the server code
 # Features :
 - Disappearing messages , we are concerned about your privacy
+  
 Server:
     - Spring boot Websocket - JAVA
 
