@@ -5,7 +5,8 @@ Spring boot websocket backend and reactjs client
 #Pre-requisites
 - hey there , Aman here!!!! to run this project you need to have Jdk 17.0 version
 - install Apache-maven to run the server code
-
+# Features :
+- Disappearing messages , we are concerned about your privacy
 Server:
     - Spring boot Websocket - JAVA
 
