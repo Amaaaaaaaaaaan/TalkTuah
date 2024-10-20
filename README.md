@@ -1,10 +1,10 @@
-# ChatApplication
+# TalkTuah
 Spring boot websocket backend and reactjs client
 
-[Tutorial Link](https://youtu.be/o_IjEDAuo8Y)
+
 
 Server:
-    - Spring boot Websocket
+    - Spring boot Websocket - JAVA
 
 Client
     - ReactJS
@@ -16,8 +16,8 @@ Client
 To start:
     
 ### Client
-        - npm install (in the react-client folder)
-        - npm start
+        - npm install (run this command in integrated terminal by right clicking on react-client folder in VS-CODE)
+        - npm start (run this to start the project on the local-host)
     
 ### Server
-        - mvn spring-boot:run (in the spring-ws-server)
+        - mvn spring-boot:run (in the spring-ws-server integrated termoinal in vs code)
