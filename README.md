@@ -1,4 +1,5 @@
 # TalkTuah
+# REMEMBER : Only settle For HAWK TUAH and Switch to TalkTuah
 Spring boot websocket backend and reactjs client
 
 #Pre-requisites
